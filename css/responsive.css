@@ -1,0 +1,60 @@
+.main-bg{
+	width:100%; min-width: 300px;
+}
+header{width: 100%}
+.logo,#header-title,#header-flag{width: 100%;text-align: center;float: left; margin-bottom: 2%;max-width: 100%}
+#header-flag img{width: 100px;margin-left: 0;margin-top: 0}
+.logo a{margin-left: 41%}
+
+.sf-menu > li{margin: 0; float: none;width: 100%;text-align: center;}
+.sf-menu >li{padding-bottom: 7px;}
+.sf-menu li:hover{background: #fff;}
+
+.slider, .chief{width: 100%; float:none;}
+.chief{margin-top: 1%}
+
+.container_24{width: 100%}
+
+.container_24 .suffix_1{width: 98%;padding-left: 0.5%; padding-right: 0.5%}
+.container_24 .grid_16{width: 97%;margin-left: 1%;}
+
+.indent-bot-1{padding: 0}
+
+.container_24 .grid_24{width: 100%}
+
+.list-1 li:hover{background: white;}
+.list-1 li a:hover{color: red}
+
+.welcome img{height: auto;}
+.welcome{margin-right: 3%}
+.rightbar{margin-right: 3%;}
+
+section#content {
+	width: 100%;
+}
+.leftbar{width: 98%}
+.rightbar{width: 98%}
+
+.article-content{text-align: center;}
+
+.bills{margin-bottom: 15px;}
+.sewakendra{width: 98%;}
+.gallery{width: 98%}
+
+.facebook, .publication, .contact, .social{width: 98% !important;}
+
+.social ul li{text-align: left;}
+
+#content{width: 98%}
+
+/*.copy{width: 98%}
+.powered{width: 98%}
+*/
+@media (max-width: 400px) {
+  .welcome {
+    margin-right: 6%;
+    .bills{padding-top:5px;padding-bottom: 5px; }
+  }
+  .gallery{margin-right: 3%}
+  #content{width: 89%}
+}

@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Passion One'), local('PassionOne-Regular'), url(http://fonts.gstatic.com/s/passionone/v6/fY6k21F1QT2c_Oc3HRNDwo4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2'), url(http://fonts.gstatic.com/s/passionone/v6/fY6k21F1QT2c_Oc3HRNDwobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
